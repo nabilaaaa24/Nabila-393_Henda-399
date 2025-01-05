@@ -44,6 +44,7 @@ Berikut adalah korelasi fitur audio terhadap popularitas lagu:
 | Energy             | -0.109    |
 | Duration (ms/min)  | -0.144    |
 | Instrumentalness   | -0.150    |
+![image](https://github.com/user-attachments/assets/996bef88-8092-4c45-8bc2-5cf8acfc307d)
 
 ## Rekomendasi
 1. **Fokus pada Fitur Positif**:
@@ -64,3 +65,7 @@ Berikut adalah korelasi fitur audio terhadap popularitas lagu:
 https://colab.research.google.com/drive/1gb9BKosdgKoKscnfM-4Lt5LmjB32Nx-o?usp=sharing
 ## Kesimpulan
 Proyek ini bertujuan untuk membantu pemangku kepentingan dalam industri musik memahami karakteristik lagu yang populer dan memberikan wawasan yang actionable.
+
+## Authors
+1. Henda Cantika Sari - (hendacantika23@gmail.com - 202110370311399)
+2. Nabila Az-Zahro Ika P. R. (nabilazahro24@webmail.umm.ac.id- 202110370311393)
